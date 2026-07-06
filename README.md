@@ -5,12 +5,12 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=faizan-375&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=faizan-375&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<br/>
+<br />
 
-<img align="right" alt="Faizan Mehdi Avatar" width="320" src="./assets/faizan-avatar.gif" />
+<img align="right" alt="Faizan Mehdi Animated Avatar" width="280" src="./assets/avatar/faizan-avatar.gif" />
 
 ### 👨‍💻 About Me
 
@@ -20,7 +20,7 @@
 
 - 👯 I’m looking to collaborate on **React.js, Node.js, Firebase, Flutter, Java, and database-driven projects**
 
-- 🤝 I’m looking for help with **advanced backend development, API integration, database design, and deployment**
+- 🤝 I’m improving my skills in **backend development, API integration, database design, and deployment**
 
 - 💬 Ask me about **Full-Stack Development, JavaScript, React.js, Node.js, Firebase, SQL, Flutter, Java, and GitHub projects**
 
@@ -30,7 +30,7 @@
 
 - ⚡ Fun fact: **I enjoy turning academic ideas into practical software products with clean UI and real-world features**
 
-<br/>
+<br clear="right"/>
 
 ---
 
@@ -48,21 +48,71 @@
   </a>
 </p>
 
-**Discord:** `faizan1415`
+<p>
+  <strong>Discord:</strong> <code>faizan1415</code>
+</p>
 
 ---
 
 ### 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,java,cpp,dart,flutter,firebase,mongodb,mysql,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,java,cpp,dart,flutter,firebase,mongodb,mysql,git,github,vscode,figma" alt="Languages and Tools" />
 </p>
 
 ---
 
-### 🚀 Featured Focus Areas
+### 🚀 Main Focus Areas
 
 ```txt
 Full-Stack Development  |  React.js  |  Node.js  |  REST APIs
-Firebase & Firestore    |  SQL       |  MongoDB   |  Flutter
-Java Desktop Apps       |  GitHub    |  UI/UX     |  Documentation
+Firebase & Firestore    |  SQL       |  MongoDB  |  Flutter
+Java Desktop Apps       |  GitHub    |  UI/UX    |  Documentation
+```
+
+---
+
+### 📌 Project Areas
+
+- **Full-Stack Web Applications**  
+  Responsive web apps with frontend, backend, database, and API integration.
+
+- **Mobile Applications**  
+  Flutter-based mobile apps with clean UI and practical real-world features.
+
+- **Java Desktop Projects**  
+  Java Swing applications with Firebase, database handling, and role-based features.
+
+- **AI-Assisted Features**  
+  Prediction, classification, and recommendation features as a secondary focus.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=faizan-375&show_icons=true&locale=en&hide_border=true" alt="Faizan Mehdi GitHub Stats" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=faizan-375&show_icons=true&locale=en&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=faizan-375&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 👨‍💻 All Projects
+
+<p>
+  All of my projects are available at:
+  <a href="https://github.com/faizan-375?tab=repositories">github.com/faizan-375</a>
+</p>
+
+---
+
+<p align="center">
+  <strong>Thanks for visiting my profile!</strong>
+</p>
